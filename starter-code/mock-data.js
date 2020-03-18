@@ -32,9 +32,9 @@ let mock = [{
   },
   {
     id: 5,
-    name: "Squaw Peak Overlook",
-    description: “Scenery ;)”,
-    price: "$0",
+    name: "Soap Factory",
+    description: “Indoors, make soap”,
+    price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
 
