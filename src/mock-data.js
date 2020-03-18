@@ -1,7 +1,7 @@
 let mock = [{
     id: 1,
     name: "Hike the Y",
-    description: “Outdoor Hiking Activity”,
+    description: 'Outdoor Hiking Activity',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -9,7 +9,7 @@ let mock = [{
   {
     id: 2,
     name: "Don Joaquin Street Tacos",
-    description: “Mexican Fast Food”,
+    description: 'Mexican Fast Food',
     price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -17,7 +17,7 @@ let mock = [{
   {
     id: 3,
     name: "Peaks Ice Arena",
-    description: “Indoor Ice Skating”,
+    description: 'Indoor Ice Skating',
     price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -25,7 +25,7 @@ let mock = [{
   {
     id: 4,
      name: "Squaw Peak Overlook",
-    description: “Scenery ;)”,
+    description: 'Scenery ;)',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -33,7 +33,7 @@ let mock = [{
   {
     id: 5,
     name: "Soap Factory",
-    description: “Indoors, make soap”,
+    description: 'Indoors, make soap',
     price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -42,7 +42,7 @@ let mock = [{
   {
     id: 6,
     name: "KoKo’s Lunchbox",
-    description: “Korean Food”,
+    description: 'Korean Food',
     price: "$20",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -50,7 +50,7 @@ let mock = [{
   {
     id: 7,
     name: "Nickel City",
-    description: “Nickel Arcade”,
+    description: 'Nickel Arcade',
     price: "$10",
     location: "Orem, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -58,7 +58,7 @@ let mock = [{
   {
     id: 8,
     name: "Bridal Veil Falls",
-    description: “Hiking Waterfalls”,
+    description: 'Hiking Waterfalls',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -66,7 +66,7 @@ let mock = [{
   {
     id: 9,
    name: "BYU Bell Tower",
-    description: “Sit and Talk Spot ;)”,
+    description: 'Sit and Talk Spot ;)',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -75,7 +75,7 @@ let mock = [{
   {
     id: 10,
     name: "Wilk Cougareat",
-    description: “Fast Food”,
+    description: 'Fast Food',
     price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -83,7 +83,7 @@ let mock = [{
   {
     id: 11,
     name: "Swig",
-    description: “Soda Drinks & Food”,
+    description: 'Soda Drinks & Food',
     price: "$10",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -91,7 +91,7 @@ let mock = [{
   {
     id: 12,
     name: "DI Dress Up",
-    description: “Buy each other an outfit”,
+    description: 'Buy each other an outfit',
     price: "$10",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -99,7 +99,7 @@ let mock = [{
   {
     id: 13,
     name: "DI Dress Up",
-    description: “Shopping, buy each other outfits and wear them in public”,
+    description: 'Shopping, buy each other outfits and wear them in public',
     price: "$10",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -107,7 +107,7 @@ let mock = [{
   {
     id: 14,
     name: "Vivian Park",
-    description: “hiking, fishing, chilling”,
+    description: 'hiking, fishing, chilling',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -115,7 +115,7 @@ let mock = [{
   {
     id: 15,
     name: "Hot Springs",
-    description: “Hiking, hot springs, outdoors”,
+    description: 'Hiking, hot springs, outdoors',
     price: "$0",
     location: "Spanish Fork, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -123,7 +123,7 @@ let mock = [{
   {
     id: 16,
     name: "Asa Ramen",
-    description: “Japanese Ramen Food”,
+    description: 'Japanese Ramen Food',
     price: "$15",
     location: "Orem, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -131,7 +131,7 @@ let mock = [{
   {
     id: 17,
     name: "Provo Temple",
-    description: “Walk around the grounds”,
+    description: 'Walk around the grounds',
     price: "$0",
     location: "Orem, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -139,7 +139,7 @@ let mock = [{
   {
     id: 18,
     name: "Rock Canyon Park",
-    description: “Hammocking”,
+    description: 'Hammocking',
     price: "$0",
     location: "Orem, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -147,7 +147,7 @@ let mock = [{
   {
     id: 19,
     name: "Provo Canyon",
-    description: “Drive and talk ;)”,
+    description: 'Drive and talk ;)',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -155,7 +155,7 @@ let mock = [{
   {
     id: 20,
     name: "University Mall",
-    description: “Shopping, walking, talking, and food”,
+    description: 'Shopping, walking, talking, and food',
     price: "$15",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -163,7 +163,7 @@ let mock = [{
   {
     id: 21,
     name: "University Mall",
-    description: “Shopping, walking, talking, and food”,
+    description: 'Shopping, walking, talking, and food',
     price: "$15",
     location: "Orem, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -171,7 +171,7 @@ let mock = [{
   {
     id: 22,
     name: "Bean Museum",
-    description: “Walk around and look at dead animals”,
+    description: 'Walk around and look at dead animals',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -179,7 +179,7 @@ let mock = [{
   {
     id: 23,
     name: "Museum of Art",
-    description: “Walk around and enjoy art”,
+    description: 'Walk around and enjoy art',
     price: "$0",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -187,7 +187,7 @@ let mock = [{
   {
     id: 24,
     name: "Good Move Cafe",
-    description: “Eat food and play board games”,
+    description: 'Eat food and play board games',
     price: "$30",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
@@ -195,7 +195,7 @@ let mock = [{
   {
     id: 25,
     name: "Loveland Living Planet Aquarium",
-    description: “See the animals that live in the sea”,
+    description: 'See the animals that live in the sea',
     price: "$35",
     location: "Provo, UT",
     image: 'egg-salad.jpg' //will put in actual image
