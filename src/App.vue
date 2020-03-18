@@ -2,14 +2,12 @@
 <div id="app">
   <div id="menu">
     <div id="brand">
-      <router-link to="/">
-        <img src="/images/logo.png">
-      </router-link>
+        <p>- Date Provo -</p>
     </div>
     <div id="side">
       <router-link to="/browse">
         <div class="menu-item browse">
-          <img src="/images/globe.png">
+          <i class="fas fa-grin-hearts"></i>
           <p>Browse</p>
         </div>
       </router-link>
