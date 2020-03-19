@@ -55,7 +55,7 @@ export default {
 
 .product img {
   border: 2px solid #333;
-  height: 250px;
+  height: 200px;
   width: 200px;
   object-fit: cover;
 }
