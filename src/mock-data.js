@@ -132,8 +132,8 @@ let mock = [{
     name: "Provo Temple",
     description: 'Walk around the grounds',
     price: "$0",
-    location: "Orem",
-    image: 'provo-temple.jpg' //will put in actual image
+    location: "Provo",
+    image: 'provo-temple.jpg'
   },
   {
     id: 18,
