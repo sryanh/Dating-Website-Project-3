@@ -12,7 +12,8 @@
       </router-link>
       <router-link to="/browse">
         <div class="menu-item browse">
-          <p><i class="fas fa-fire"></i> Browse</p>
+          <p><i class="fas fa-fire"></i> Filter</p>
+          <!-- Change name here:)  -->
         </div>
       </router-link>
       <router-link to="/cart">
@@ -28,7 +29,7 @@
      <div class="footer">
        <p>Savannah Herbon -
          <a href='https://github.com/sryanh/Dating-Website-Project-3'>GitHub</a>
-          - Kirsten Kirkseik</p></div>
+          - Kirsten Kerkseik</p></div>
   </div>
 </div>
 
@@ -102,7 +103,9 @@ body {
   font-family: 'Roboto', sans-serif !important;
 }
 .footer{
+    
     font-family: 'Lobster', cursive;
+    color: white;
 }
 .menu-item p {
   margin: 0px;
@@ -113,7 +116,7 @@ body {
 }
 .page{
   height: 50px;
-  background-color: #C7D8D0 !important;
+  background-color: #DD7864 !important;
   font-size: 20px;
   text-align: center;
 }
