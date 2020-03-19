@@ -29,7 +29,7 @@
      <div class="footer">
        <p>Savannah Herbon -
          <a href='https://github.com/sryanh/Dating-Website-Project-3'>GitHub</a>
-          - Kirsten Kerkseik</p></div>
+          - Kirsten Kerksiek</p></div>
   </div>
 </div>
 
@@ -103,7 +103,6 @@ body {
   font-family: 'Roboto', sans-serif !important;
 }
 .footer{
-    
     font-family: 'Lobster', cursive;
     color: white;
 }

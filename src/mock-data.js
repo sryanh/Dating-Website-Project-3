@@ -8,7 +8,7 @@ let mock = [{
   },
   {
     id: 2,
-    name: "Don Joaquin Street Tacos",
+    name: "Don Joaquin's",
     description: 'Mexican Fast Food',
     price: "$15",
     location: "Provo",
@@ -24,7 +24,7 @@ let mock = [{
   },
   {
     id: 4,
-     name: "Squaw Peak Overlook",
+     name: "Squaw Peak",
     description: 'Scenery ;)',
     price: "$0",
     location: "Provo",
@@ -97,7 +97,7 @@ let mock = [{
   },
   {
     id: 13,
-    name: "Mona Lake Swings ",
+    name: "Mona Lake",
     description: 'Swimming, picnic, and swings',
     price: "$0",
     location: "Mona",
@@ -113,7 +113,7 @@ let mock = [{
   },
   {
     id: 15,
-    name: "Fifth Water Hot Springs",
+    name: "Hot Springs",
     description: 'Hiking, hot springs, outdoors',
     price: "$0",
     location: "Spanish Fork",
@@ -137,8 +137,8 @@ let mock = [{
   },
   {
     id: 18,
-    name: "Rock Canyon Park",
-    description: 'Hammocking',
+    name: "Rock Canyon",
+    description: 'Hammocking Park',
     price: "$0",
     location: "Orem",
     image: 'rock-canyon.jpg' //will put in actual image
@@ -193,7 +193,7 @@ let mock = [{
   },
   {
     id: 25,
-    name: "Loveland Living Planet Aquarium",
+    name: "The Aquarium",
     description: 'See the animals that live in the sea',
     price: "$35",
     location: "Provo",
