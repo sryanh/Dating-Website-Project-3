@@ -4,7 +4,7 @@ let mock = [{
     description: 'Outdoor Hiking Activity',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'hike-the-y.jpg' //will put in actual image
   },
   {
     id: 2,
@@ -12,7 +12,7 @@ let mock = [{
     description: 'Mexican Fast Food',
     price: "$15",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'don-joaquin.jpg' //will put in actual image
   },
   {
     id: 3,
@@ -20,7 +20,7 @@ let mock = [{
     description: 'Indoor Ice Skating',
     price: "$15",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'peaks-ice.jpg' //will put in actual image
   },
   {
     id: 4,
@@ -28,7 +28,7 @@ let mock = [{
     description: 'Scenery ;)',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'squaw-peak.jpg' //will put in actual image
   },
   {
     id: 5,
@@ -36,8 +36,7 @@ let mock = [{
     description: 'Indoors, make soap',
     price: "$15",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
-
+    image: 'soap-factory.jpg' //will put in actual image
   },
   {
     id: 6,
@@ -45,7 +44,7 @@ let mock = [{
     description: 'Korean Food',
     price: "$20",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'koko-png.jpg' //will put in actual image
   },
   {
     id: 7,
@@ -53,7 +52,7 @@ let mock = [{
     description: 'Nickel Arcade',
     price: "$10",
     location: "Orem, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'nickel-city.jpg' //will put in actual image
   },
   {
     id: 8,
@@ -61,24 +60,24 @@ let mock = [{
     description: 'Hiking Waterfalls',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'bridal-veil.jpg' //will put in actual image
   },
   {
     id: 9,
    name: "BYU Bell Tower",
-    description: 'Sit and Talk Spot ;)',
+    description: 'BYU, Sit and Talk Spot ;)',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'bell-tower.jpg' //will put in actual image
 
   },
   {
     id: 10,
     name: "Wilk Cougareat",
-    description: 'Fast Food',
+    description: 'BYU Fast Food',
     price: "$15",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'wilk-cougareat.jpg' //will put in actual image
   },
   {
     id: 11,
@@ -86,7 +85,7 @@ let mock = [{
     description: 'Soda Drinks & Food',
     price: "$10",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'swig.jpg' //will put in actual image
   },
   {
     id: 12,
@@ -94,15 +93,15 @@ let mock = [{
     description: 'Buy each other an outfit',
     price: "$10",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'di.jpg' //will put in actual image
   },
   {
     id: 13,
-    name: "DI Dress Up",
-    description: 'Shopping, buy each other outfits and wear them in public',
-    price: "$10",
-    location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    name: "Mona Lake Swings ",
+    description: 'Swimming, picnic, and swings',
+    price: "$0",
+    location: "Mona, UT",
+    image: 'mona-swings.jpg' //will put in actual image
   },
   {
     id: 14,
@@ -110,15 +109,15 @@ let mock = [{
     description: 'hiking, fishing, chilling',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'vivian-park.jpg' //will put in actual image
   },
   {
     id: 15,
-    name: "Hot Springs",
+    name: "Fifth Water Hot Springs",
     description: 'Hiking, hot springs, outdoors',
     price: "$0",
     location: "Spanish Fork, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'hot-springs.jpg' //will put in actual image
   },
   {
     id: 16,
@@ -126,7 +125,7 @@ let mock = [{
     description: 'Japanese Ramen Food',
     price: "$15",
     location: "Orem, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'asa-ramen.jpg' //will put in actual image
   },
   {
     id: 17,
@@ -134,7 +133,7 @@ let mock = [{
     description: 'Walk around the grounds',
     price: "$0",
     location: "Orem, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'provo-temple.jpg' //will put in actual image
   },
   {
     id: 18,
@@ -142,7 +141,7 @@ let mock = [{
     description: 'Hammocking',
     price: "$0",
     location: "Orem, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'rock-canyon.jpg' //will put in actual image
   },
   {
     id: 19,
@@ -150,39 +149,39 @@ let mock = [{
     description: 'Drive and talk ;)',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'provo-canyon.jpg' //will put in actual image
   },
   {
     id: 20,
-    name: "University Mall",
+    name: "Downtown Provo",
     description: 'Shopping, walking, talking, and food',
     price: "$15",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'downtown-provo.jpg' //will put in actual image
   },
   {
     id: 21,
     name: "University Mall",
-    description: 'Shopping, walking, talking, and food',
+    description: 'Food, murals, shopping, walking, talking',
     price: "$15",
     location: "Orem, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'university-mall.jpg' //will put in actual image
   },
   {
     id: 22,
     name: "Bean Museum",
-    description: 'Walk around and look at dead animals',
+    description: 'BYU, Walk around and look at dead animals',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'bean-musuem.jpg' //will put in actual image
   },
   {
     id: 23,
     name: "Museum of Art",
-    description: 'Walk around and enjoy art',
+    description: 'BYU, Walk around and enjoy art',
     price: "$0",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'moa.jpg' //will put in actual image
   },
   {
     id: 24,
@@ -190,7 +189,7 @@ let mock = [{
     description: 'Eat food and play board games',
     price: "$30",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'good-move.jpg' //will put in actual image
   },
   {
     id: 25,
@@ -198,7 +197,7 @@ let mock = [{
     description: 'See the animals that live in the sea',
     price: "$35",
     location: "Provo, UT",
-    image: 'egg-salad.jpg' //will put in actual image
+    image: 'loveland.jpg' //will put in actual image
   },
   ]
 
