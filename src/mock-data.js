@@ -132,7 +132,7 @@ let mock = [{
     name: "Provo Temple",
     description: 'Walk around the grounds',
     price: "$0",
-    location: "Orem",
+    location: "Provo",
     image: 'provo-temple.jpg'
   },
   {
@@ -196,7 +196,7 @@ let mock = [{
     name: "The Aquarium",
     description: 'See the animals that live in the sea',
     price: "$35",
-    location: "Provo",
+    location: "Draper",
     image: 'loveland.jpg'
   },
   ]
