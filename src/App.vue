@@ -2,12 +2,12 @@
 <div id="app">
   <div id="menu">
     <div id="brand">
-        <p>- Date Provo -</p>
+        <p>Date Provo</p>
     </div>
     <div id="side">
       <router-link to="/">
         <div class="menu-item browse">
-        <i class="fas fa-home"> Home</i>
+        <p><i class="fas fa-home"></i> Home</p>
       </div>
       </router-link>
       <router-link to="/browse">
@@ -25,7 +25,10 @@
   <router-view />
   <br>
   <div class= "page">
-     <div class="footer"><a href='https://github.com/BYU-CS-260-Winter-2020/lab-3b-grocery-store-sryanh'>GitHub</a></div>
+     <div class="footer">
+       <p>Savannah Herbon -
+         <a href='https://github.com/sryanh/Dating-Website-Project-3'>GitHub</a>
+          - Kirsten Kirkseik</p></div>
   </div>
 </div>
 
@@ -45,14 +48,20 @@ export default{
 <style>
 * {
   box-sizing: border-box;
+
 }
 
 body {
-  margin: 50px 100px;
+  /* margin: 50px 100px; */
 
 }
-
+/* #app{
+  background-color: #F4E8D2 !important;
+} */
 #menu {
+  padding-top: 25px;
+  background-color: #DD7864;
+  color: white;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 5px;
@@ -61,7 +70,7 @@ body {
 }
 
 #menu a {
-  color: #B84901;
+  color: white;
 }
 
 #brand {
@@ -70,25 +79,31 @@ body {
   justify-content: center;
 }
 
-#brand img {
-  height: 200px;
+#brand  {
+  /* padding-top: 20px; */
+  /* padding-bottom: 25px; */
+  font-size: 4.5rem;
+  font-family: 'Lobster', cursive;
 }
 
 #side {
   grid-area: side;
   display: flex;
   justify-content: right;
+  font-family: 'Roboto', sans-serif !important;
 }
 
 #side img {
   width: 50px;
 }
-
 .menu-item {
   display: flex;
   flex-direction: column;
+  font-family: 'Roboto', sans-serif !important;
 }
-
+.footer{
+    font-family: 'Lobster', cursive;
+}
 .menu-item p {
   margin: 0px;
 }
@@ -98,7 +113,7 @@ body {
 }
 .page{
   height: 50px;
-  background-color: #FFE5CE !important;
+  background-color: #C7D8D0 !important;
   font-size: 20px;
   text-align: center;
 }
