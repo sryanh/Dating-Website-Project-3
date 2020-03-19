@@ -3,7 +3,7 @@ let mock = [{
     name: "Hike the Y",
     description: 'Outdoor Hiking Activity',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'hike-the-y.jpg' //will put in actual image
   },
   {
@@ -11,7 +11,7 @@ let mock = [{
     name: "Don Joaquin Street Tacos",
     description: 'Mexican Fast Food',
     price: "$15",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'don-joaquin.jpg' //will put in actual image
   },
   {
@@ -19,7 +19,7 @@ let mock = [{
     name: "Peaks Ice Arena",
     description: 'Indoor Ice Skating',
     price: "$15",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'peaks-ice.jpg' //will put in actual image
   },
   {
@@ -27,7 +27,7 @@ let mock = [{
      name: "Squaw Peak Overlook",
     description: 'Scenery ;)',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'squaw-peak.jpg' //will put in actual image
   },
   {
@@ -35,7 +35,7 @@ let mock = [{
     name: "Soap Factory",
     description: 'Indoors, make soap',
     price: "$15",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'soap-factory.jpg' //will put in actual image
   },
   {
@@ -43,7 +43,7 @@ let mock = [{
     name: "KoKo’s Lunchbox",
     description: 'Korean Food',
     price: "$20",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'koko-png.jpg' //will put in actual image
   },
   {
@@ -51,7 +51,7 @@ let mock = [{
     name: "Nickel City",
     description: 'Nickel Arcade',
     price: "$10",
-    location: "Orem, UT",
+    location: "Orem",
     image: 'nickel-city.jpg' //will put in actual image
   },
   {
@@ -59,7 +59,7 @@ let mock = [{
     name: "Bridal Veil Falls",
     description: 'Hiking Waterfalls',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'bridal-veil.jpg' //will put in actual image
   },
   {
@@ -67,7 +67,7 @@ let mock = [{
    name: "BYU Bell Tower",
     description: 'BYU, Sit and Talk Spot ;)',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'bell-tower.jpg' //will put in actual image
 
   },
@@ -76,7 +76,7 @@ let mock = [{
     name: "Wilk Cougareat",
     description: 'BYU Fast Food',
     price: "$15",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'wilk-cougareat.jpg' //will put in actual image
   },
   {
@@ -84,7 +84,7 @@ let mock = [{
     name: "Swig",
     description: 'Soda Drinks & Food',
     price: "$10",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'swig.jpg' //will put in actual image
   },
   {
@@ -92,7 +92,7 @@ let mock = [{
     name: "DI Dress Up",
     description: 'Buy each other an outfit',
     price: "$10",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'di.jpg' //will put in actual image
   },
   {
@@ -100,7 +100,7 @@ let mock = [{
     name: "Mona Lake Swings ",
     description: 'Swimming, picnic, and swings',
     price: "$0",
-    location: "Mona, UT",
+    location: "Mona",
     image: 'mona-swings.jpg' //will put in actual image
   },
   {
@@ -108,7 +108,7 @@ let mock = [{
     name: "Vivian Park",
     description: 'hiking, fishing, chilling',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'vivian-park.jpg' //will put in actual image
   },
   {
@@ -116,7 +116,7 @@ let mock = [{
     name: "Fifth Water Hot Springs",
     description: 'Hiking, hot springs, outdoors',
     price: "$0",
-    location: "Spanish Fork, UT",
+    location: "Spanish Fork",
     image: 'hot-springs.jpg' //will put in actual image
   },
   {
@@ -124,7 +124,7 @@ let mock = [{
     name: "Asa Ramen",
     description: 'Japanese Ramen Food',
     price: "$15",
-    location: "Orem, UT",
+    location: "Orem",
     image: 'asa-ramen.jpg' //will put in actual image
   },
   {
@@ -132,7 +132,7 @@ let mock = [{
     name: "Provo Temple",
     description: 'Walk around the grounds',
     price: "$0",
-    location: "Orem, UT",
+    location: "Orem",
     image: 'provo-temple.jpg' //will put in actual image
   },
   {
@@ -140,7 +140,7 @@ let mock = [{
     name: "Rock Canyon Park",
     description: 'Hammocking',
     price: "$0",
-    location: "Orem, UT",
+    location: "Orem",
     image: 'rock-canyon.jpg' //will put in actual image
   },
   {
@@ -148,7 +148,7 @@ let mock = [{
     name: "Provo Canyon",
     description: 'Drive and talk ;)',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'provo-canyon.jpg' //will put in actual image
   },
   {
@@ -156,7 +156,7 @@ let mock = [{
     name: "Downtown Provo",
     description: 'Shopping, walking, talking, and food',
     price: "$15",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'downtown-provo.jpg' //will put in actual image
   },
   {
@@ -164,7 +164,7 @@ let mock = [{
     name: "University Mall",
     description: 'Food, murals, shopping, walking, talking',
     price: "$15",
-    location: "Orem, UT",
+    location: "Orem",
     image: 'university-mall.jpg' //will put in actual image
   },
   {
@@ -172,7 +172,7 @@ let mock = [{
     name: "Bean Museum",
     description: 'BYU, Walk around and look at dead animals',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'bean-musuem.jpg' //will put in actual image
   },
   {
@@ -180,7 +180,7 @@ let mock = [{
     name: "Museum of Art",
     description: 'BYU, Walk around and enjoy art',
     price: "$0",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'moa.jpg' //will put in actual image
   },
   {
@@ -188,7 +188,7 @@ let mock = [{
     name: "Good Move Cafe",
     description: 'Eat food and play board games',
     price: "$30",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'good-move.jpg' //will put in actual image
   },
   {
@@ -196,7 +196,7 @@ let mock = [{
     name: "Loveland Living Planet Aquarium",
     description: 'See the animals that live in the sea',
     price: "$35",
-    location: "Provo, UT",
+    location: "Provo",
     image: 'loveland.jpg' //will put in actual image
   },
   ]
