@@ -5,16 +5,19 @@
         <p>- Date Provo -</p>
     </div>
     <div id="side">
+      <router-link to="/">
+        <div class="menu-item browse">
+        <i class="fas fa-home"> Home</i>
+      </div>
+      </router-link>
       <router-link to="/browse">
         <div class="menu-item browse">
-          <i class="fas fa-grin-hearts"></i>
-          <p>Browse</p>
+          <p><i class="fas fa-fire"></i> Browse</p>
         </div>
       </router-link>
       <router-link to="/cart">
         <div class="menu-item">
-          <img src="/images/love.png">
-          <p>{{numberOfItems}} Items</p>
+          <p><i class="fas fa-clipboard-list"></i> Wish List</p>
         </div>
       </router-link>
     </div>
